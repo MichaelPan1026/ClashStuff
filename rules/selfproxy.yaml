@@ -1,0 +1,4 @@
+payload:
+  - DOMAIN-SUFFIX,safebrowsing.apple,Proxy
+  - DOMAIN-SUFFIX,ntp.msn.cn,Proxy
+  - DOMAIN-SUFFIX,ntp.msn.com,Proxy
