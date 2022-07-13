@@ -1,0 +1,10 @@
+payload:
+  - IP-CIDR,13.215.97.169/24,DIRECT
+  - DOMAIN-SUFFIX,iqmtp.live,DIRECT
+  - DOMAIN-SUFFIX,passcloud.xyz,DIRECT
+  - DOMAIN-SUFFIX,iqiq.io,DIRECT
+  - DOMAIN-SUFFIX,iqdns.io,DIRECT
+  - DOMAIN-SUFFIX,ntp.msn.cn,Proxy
+  - DOMAIN-SUFFIX,ntp.msn.com,Proxy
+  - DOMAIN-SUFFIX,ipify.org,DIRECT
+  - DOMAIN-SUFFIX,safebrowsing.apple,Proxy
