@@ -2,3 +2,6 @@ payload:
   - DOMAIN-SUFFIX,safebrowsing.apple,Proxy
   - DOMAIN-SUFFIX,ntp.msn.cn,Proxy
   - DOMAIN-SUFFIX,ntp.msn.com,Proxy
+  - DOMAIN-SUFFIX,kinh.cc,Proxy
+  - DOMAIN-SUFFIX,kinhdown.com,Proxy
+  - DOMAIN-SUFFIX,apexranked.com,Proxy
