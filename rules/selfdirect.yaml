@@ -1,8 +1,8 @@
 payload:
-  - IP-CIDR,13.214.54.119/24
   - DOMAIN-SUFFIX,iqmtp.live
   - DOMAIN-SUFFIX,tex0n.net
   - DOMAIN-SUFFIX,passcloud.xyz
   - DOMAIN-SUFFIX,iqiq.io
   - DOMAIN-SUFFIX,iqdns.io
   - DOMAIN-SUFFIX,ipify.org
+  - DOMAIN-SUFFIX,steamcontent.com
