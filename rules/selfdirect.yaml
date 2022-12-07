@@ -2,7 +2,7 @@ payload:
   - DOMAIN-SUFFIX,iqmtp.live
   - DOMAIN-SUFFIX,tex0n.net
   - DOMAIN-SUFFIX,passcloud.xyz
-  - DOMAIN-SUFFIX,iqiq.io
-  - DOMAIN-SUFFIX,iqdns.io
   - DOMAIN-SUFFIX,ipify.org
   - DOMAIN-SUFFIX,steamcontent.com
+  - DOMAIN-SUFFIX,nebula-emby.com
+  - IP-CIDR,159.69.62.180/32,no-resolve
