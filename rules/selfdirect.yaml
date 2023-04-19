@@ -6,3 +6,4 @@ payload:
   - DOMAIN-SUFFIX,steamcontent.com
   - DOMAIN-SUFFIX,nebula-emby.com
   - IP-CIDR,159.69.62.180/32,no-resolve
+  - PROCESS-NAME,qbittorrent.exe,DIRECT
